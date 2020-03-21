@@ -1,2 +1,2 @@
-# Face-Recognition-
-Face Recognition using python
+# Face-Detection-
+Face Detection using python
